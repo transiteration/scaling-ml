@@ -185,7 +185,7 @@ bash workload.sh
 ```
 
 ### Extras
-Makefile to clean caces from the directories and format scripts:
+`Makefile` to clean caches from the directories and format scripts:
 ```bash
 make style && make clean
 ```
