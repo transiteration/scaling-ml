@@ -1,0 +1,18 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Scaling ML:
+    - Data: data.md
+    - Model: model.md
+    - Train: train.md
+    - Tune: tune.md
+    - Evaluate: evaluate.md
+    - Predict: predict.md
+    - App: app.md
+    - Utils: utils.md
+    - Config: config.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .
