@@ -45,7 +45,7 @@ scripts
 - `train.py` - Training process using Ray for distributed training.
 - `tune.py` -  Hyperparameter tuning for Language Model using Ray Tune.
 - `utils.py` - Various utility functions for handling data, setting random seeds, saving and loading dictionaries, etc.
-#### Dataset
+### Dataset
 For training, small portion of the [News Category Dataset](https://www.kaggle.com/datasets/setseries/news-category-dataset) was used, which contains numerous headlines and descriptions of various articles.
 
 ### How to Train
