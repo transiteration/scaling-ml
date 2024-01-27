@@ -108,9 +108,9 @@ python3 evaluate.py --run_id $RUN_ID --dataset_loc "path/to/dataset" --results_f
 ```json
 {                                                                                                                                                                                                           
   "timestamp": "January 22, 2024 09:57:12 AM",
-  "precision": 0.9163323229539818,
-  "recall": 0.9124083769633508,
-  "f1": 0.9137224104301406,
+  "precision": 0.9463323229539818,
+  "recall": 0.9424083769633508,
+  "f1": 0.9437224104301406,
   "num_samples": 1000.0
 }
 ```
